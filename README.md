@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# ReactJS Calculator Developed by Nick Marriott
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This calculator webapp was developed primarily with ReactJS and other web-based languages. This not only includes the look and formatting, but also the entire calculation process. The majority of which is handled in the App.js file but additional files such as operationbutton.js support this.
+
+
+
 
 ## Available Scripts
 

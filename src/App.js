@@ -171,7 +171,7 @@ function App() {
     <button  className="span-two" onClick={() => dispatch({ type: ACTIONS.EVALUATE})}>=</button>
 
     <div className="footer">
-    <p>designed by <a target="_blank" href="https://nickmarriott.com/">Nick Marriott</a></p>
+    <p>designed by <a target="_blank" href="https://nickmarriott.com/">Nick Marriott.</a></p>
     </div>
     </div>
 
